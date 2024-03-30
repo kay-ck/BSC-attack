@@ -31,10 +31,13 @@ Our implementation inludes four black-box patch-based attack: BSC Attack based o
 # Citation
 If you use the code or find this project helpful, please consider citing our paper.
 ```
-@article{chen2021attacking,
-  title={Attacking Video Recognition Models with Bullet-Screen Comments},
+@inproceedings{chen2022attacking,
+  title={Attacking video recognition models with bullet-screen comments},
   author={Chen, Kai and Wei, Zhipeng and Chen, Jingjing and Wu, Zuxuan and Jiang, Yu-Gang},
-  journal={arXiv preprint arXiv:2110.15629},
-  year={2021}
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={36},
+  number={1},
+  pages={312--320},
+  year={2022}
 }
 ```
